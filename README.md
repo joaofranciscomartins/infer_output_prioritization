@@ -2,12 +2,8 @@
 
 ## Datasets
 
-All the datasets used to train the model can be found under the folder "Datasets". 
-These are sorted according to the type of studied scenario, whitin-program warning classification and cross-program warnings classification.
-
-## 
-
-As well as the Python programs create, train and evaluate the model.
+All the datasets used to train the model can be found under the folder "Datasets". These are sorted according to the type of studied scenario, whitin-program warning classification and cross-program warnings classification.
+As well as that, this folder contains the Python programs that create, train and evaluate the models.
 
 
 
