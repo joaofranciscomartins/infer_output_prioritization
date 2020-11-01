@@ -17,10 +17,10 @@ The Output Prioritization Application can be found under the folder "Pioritizati
 
 This solution is consisted of 4 parts:
 
-⋅⋅* The pre-trained machine learning model.
-..* The tokenizer used to train the model.
-..* A program whose function is to capture and preprocess all the information related with the output warnings.
-..* A program which takes the preprocessed information and evaluates it using the pre-trained model.
+* The pre-trained machine learning model.
+* The tokenizer used to train the model.
+* A program whose function is to capture and preprocess all the information related with the output warnings.
+* A program which takes the preprocessed information and evaluates it using the pre-trained model.
 
 In order to sucessfully prioritize infer warnings the following steps have to be performed:
 
