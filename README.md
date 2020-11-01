@@ -23,6 +23,11 @@ In order to sucessfully prioritize Infer output warnings the following steps are
 3. Run `prioritizer.py` with the previosuly generated "Data.csv" file.
 4. Open file Prioritized.txt.
 
+### Requirements
 
+The following requirements are needed to run this application:
+*  Infer version 0.17.0
+*  Python Programming Language version 3.5.2
+*  Keras Library with TensorFlow version 2.2.0 backend
 
 
