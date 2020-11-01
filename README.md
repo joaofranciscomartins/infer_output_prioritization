@@ -7,7 +7,7 @@ As well as that, this folder contains the Python programs that create, train and
 
 ## Infer Output Prioritization Application
 
-The developed Infer Output Prioritization Application can be found under the folder "Pioritization"
+The developed Infer Output Prioritization Application can be found under the folder "Pioritizer"
 
 This application is consistent of 4 parts:
 
