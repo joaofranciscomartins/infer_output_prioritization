@@ -21,8 +21,8 @@ This solution is consisted of 4 parts:
 In order to sucessfully prioritize infer warnings the following steps have to be performed:
 
 1. Run infer on the program to be analysed with the flag `--debug`.
-2. Run `findCode.py` in the folder `infer-out/captured`, that generates a "Data.csv" with the processed information.
-3. Run `prioritize.py` using the previosuly generated "Data.csv" file, the tokenizer and the model.
+2. Run `findCode.py` in the folder `infer-out/captured`, that generates a ´Data.csv´ with the processed information.
+3. Run `prioritize.py` with the previosuly generated ´Data.csv´ file.
 4. Open file Prioritized.txt.
 
 
